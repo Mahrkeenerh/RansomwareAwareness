@@ -20,17 +20,17 @@ int main() {
 
         case 0:
             system("start https://google.com");
-            system("start https://google.com");
+            system("start https://github.com/Mahrkeenerh/RansomwareAwareness");
             break;
 
         case 1:
             system("xdg-open https://google.com");
-            system("xdg-open https://google.com");
+            system("xdg-open https://github.com/Mahrkeenerh/RansomwareAwareness");
             break;
 
         case 2:
             system("open https://google.com");
-            system("open https://google.com");
+            system("open https://github.com/Mahrkeenerh/RansomwareAwareness");
             break;
 
     }
