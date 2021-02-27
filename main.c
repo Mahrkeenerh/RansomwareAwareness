@@ -19,17 +19,17 @@ int main() {
     switch (OS) {
 
         case 0:
-            system("start https://google.com");
+            system("start https://forms.gle/SGHvxJzRgWxyPuYn7");
             system("start https://github.com/Mahrkeenerh/RansomwareAwareness");
             break;
 
         case 1:
-            system("xdg-open https://google.com");
+            system("xdg-open https://forms.gle/SGHvxJzRgWxyPuYn7");
             system("xdg-open https://github.com/Mahrkeenerh/RansomwareAwareness");
             break;
 
         case 2:
-            system("open https://google.com");
+            system("open https://forms.gle/SGHvxJzRgWxyPuYn7");
             system("open https://github.com/Mahrkeenerh/RansomwareAwareness");
             break;
 
