@@ -1,0 +1,3 @@
+C:/Users/samue/OneDrive/School/PIB/Zadanie/Ransomware Awareness/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/samue/OneDrive/School/PIB/Zadanie/Ransomware Awareness/cmake-build-debug/CMakeFiles/Ransomware_Awareness.dir
+C:/Users/samue/OneDrive/School/PIB/Zadanie/Ransomware Awareness/cmake-build-debug/CMakeFiles/rebuild_cache.dir
