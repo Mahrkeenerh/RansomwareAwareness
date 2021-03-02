@@ -58,21 +58,16 @@ Môj program, aj celá simulácia útoku je verejne dostupná na adrese nižšie
  
 # ZDROJE
 1.	Samuel Bubán: RansomwareAwareness 2.3.2021
-
 https://github.com/Mahrkeenerh/RansomwareAwareness
 
 2.	xkcd: Password Strength
-
 https://xkcd.com/936/
 
 3.	levinec, Dansimp, Alluthewriter, joinimran, martyav, imba-tjd, DaniHalfin, get-itips, nschonni, DuncammaMSFT: Prevent malware infection 1.22.2021
-
 https://docs.microsoft.com/en-us/windows/security/threat-protection/intelligence prevent-malware-infection
 
 4.	Google Support: Protect yourself from malware
-
 https://support.google.com/google-ads/answer/2375413?hl=en
 
 5.	Amrit Singh: Ransomware: How to Prevent or Recover from an Attack 13.10.2020
-
 https://www.backblaze.com/blog/complete-guide-ransomware/
