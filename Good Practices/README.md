@@ -18,7 +18,7 @@ Pri sťahovaní obsahu (hlavne torrentov, alebo nelegálne šírených kópiách
 ## Heslá
 Používanie silného hesla. Heslo, ktoré sa môže zdať človeku náročné môže byť v skutočnosti veľmi jednoduché na prelomenie strojom. (Neodporúča sa ale ani použiť nižšie spomínané “correcthorsebatterystaple”, nakoľko to je svetovo známe).
 
-![passwd]('./password_strength.png')
+![passwd](./password_strength.png)
 
  
 ## Antivírus
