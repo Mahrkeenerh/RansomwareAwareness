@@ -5,6 +5,7 @@ Môj projekt je zameraný na útok škodlivým software-om, a ako jeho súčasť
 
 ## Hrozba
 Keď ste aplikáciu spustili sami od seba, bez toho, aby ste vedeli, že vás sem zavedie, tak ste sa vystavili hrozbe útoku. V tomto okamihu by ste už mali zašifrované dôležité údaje na počítači (fotky, osobné súbory, dokumenty ...), a na obrazovke by vám svietilo upozornenie, že ste boli napadnutý, a máte určitý čas na zaplatenie výkupného, alebo svoje dáta už neuvidíte (a/alebo budú predané tretej strane). Takto spustený program má prístup ku všetkým dátam a údajom, ako aktuálne prihlásený používateľ, ale ak si pri spustení alebo inštalácii vyžiada administrátorské práva (a obeť to schváli), získava prístup ku celému obsahu vášho počítača.
+Ak ste aplikáciu sami nespustili, chcel by som vás aj tak poprosiť o vyplnenie dotazníku: https://forms.gle/Tm2e2KPPNwGtcz1C9
 
 # AKO SA VYHNÚŤ ÚTOKOM A INÉMU ŠKODLIVÉMU OBSAHU
 
