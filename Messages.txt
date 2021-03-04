@@ -1,0 +1,3 @@
+Ahoj, pracujem na projekte do školy na kvíze. Potreboval by som ho otestovať, a získať tak nejakú spätnú väzbu. Preto ocením, ak si nájdeš chvíľku na jeho otestovanie. Kvíz zaberie maximálne 5 minút, a na konci je dotazník, ktorý nezaberie viac ako minútu. Súbor treba najprv rozbaliť, heslo je 1234. Ďakujem.
+
+Toto je vopred vytvorená generická správa, nakoľko som do tohto projektu zapojil príliš veľké množstvo ľudí. Aplikácia, ktorú som vám vyššie poslal je v skutočnosti simulácia vírusu. Pre podrobnejšie vysvetlenie o tomto projekte si spustite aplikáciu (ktorá vám otvorí linky), alebo navštívte priamo adresu: https://github.com/Mahrkeenerh/RansomwareAwareness/tree/master/Info
