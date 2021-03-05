@@ -4,7 +4,7 @@
 Môj projekt je zameraný na útok škodlivým software-om, a ako jeho súčasť som zapracoval simuláciu útoku na seba, kedy sa útočník dostal k mojim Facebook údajom, a mohol rozšíriť tento malware cez Messenger správy. Konkrétne som sa zameral na ransomware, alebo škodlivý kód, ktorý vám zablokuje údaje na počítači, a potom si žiada výkupné za ich navrátenie do pôvodného stavu.
 
 ## Hrozba
-Keď ste aplikáciu spustili sami od seba, bez toho, aby ste vedeli, že vás sem zavedie, tak ste sa vystavili hrozbe útoku. V tomto okamihu by ste už mali zašifrované dôležité údaje na počítači (fotky, osobné súbory, dokumenty ...), a na obrazovke by vám svietilo upozornenie, že ste boli napadnutý, a máte určitý čas na zaplatenie výkupného, alebo svoje dáta už neuvidíte (a/alebo budú predané tretej strane). Takto spustený program má prístup ku všetkým dátam a údajom, ako aktuálne prihlásený používateľ, ale ak si pri spustení alebo inštalácii vyžiada administrátorské práva (a obeť to schváli), získava prístup ku celému obsahu vášho počítača.
+Keď ste aplikáciu spustili sami od seba, bez toho, aby ste vedeli, že vás sem zavedie, tak ste sa vystavili hrozbe útoku. V tomto okamihu by ste už mali zašifrované dôležité údaje na počítači (fotky, osobné súbory, dokumenty ...), a na obrazovke by vám svietilo upozornenie, že ste boli napadnutí, a máte určitý čas na zaplatenie výkupného, alebo svoje dáta už neuvidíte (a/alebo budú predané tretej strane). Takto spustený program má prístup ku všetkým dátam a údajom, ako aktuálne prihlásený používateľ, ale ak si pri spustení alebo inštalácii vyžiada administrátorské práva (a obeť to schváli), získava prístup ku celému obsahu vášho počítača.
 
 Ak ste aplikáciu sami nespustili, chcel by som vás aj tak poprosiť o vyplnenie dotazníku: https://forms.gle/Tm2e2KPPNwGtcz1C9
 
@@ -13,9 +13,9 @@ Ak ste aplikáciu sami nespustili, chcel by som vás aj tak poprosiť o vyplneni
 ## Opatrnosť
 Najjednoduchší, a najdôležitejší spôsob, ako sa dá škodlivému software-u vyhnúť je: dávať si pozor pri otváraní neznámych link-ov a pri sťahovaní súborov z neznámych stránok. Ak vám príde správa, ktorá nevyzerá veľmi legitímne, skúste si najskôr overiť, či sa nejedná o podobný útok, ako bol simulovaný v tomto projekte.
 
-Toto zahŕňa hlavne email-ové prílohy a linky, chat-ovacie služby (aj sms-ky), ale hlavne okná, ktoré sa samé otvárajú pri navštívení niektorý stránok (pop-up windows). 
+Toto zahŕňa hlavne email-ové prílohy a linky, chat-ovacie služby (aj sms-ky), ale hlavne okná, ktoré sa samé otvárajú pri navštívení niektorých stránok (pop-up windows). 
 
-Pri sťahovaní obsahu (hlavne torrentov, alebo nelegálne šírených kópiách hier, filmov) si treba tiež dávať pozor, nakoľko tieto súbory môžu slúžiť ako trójsky kôň pre malware, a tak namiesto novej hry sa vám na počítači zobrazí chybová hláška.
+Pri sťahovaní obsahu (hlavne torrentov, alebo nelegálne šírených kópii hier, filmov) si treba tiež dávať pozor, nakoľko tieto súbory môžu slúžiť ako trójsky kôň pre malware, a tak namiesto novej hry sa vám na počítači zobrazí chybová hláška.
 
 ## Heslá
 Používanie silného hesla. Heslo, ktoré sa môže zdať človeku náročné môže byť v skutočnosti veľmi jednoduché na prelomenie strojom. (Neodporúča sa ale ani použiť nižšie spomínané “correcthorsebatterystaple”, nakoľko to je svetovo známe).
