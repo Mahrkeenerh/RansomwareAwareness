@@ -74,8 +74,8 @@ Až 36% zvážilo, že by sa mohlo jednať o vírus, ale aplikáciu si aj tak sp
 
 Iba 11% z opýtaných označilo odpoveď, že aplikáciu si vôbec nespustili.
 
-![graph1](.graph1.png)
-![graph2](.graph2.png)
+![graph1](./graph1.png)
+![graph2](./graph2.png)
 
 # Záver
 Nakoľko dotazník vyplnila iba približne štvrtina opýtaných, môžem sa vyjadrovať iba k nim, a z tohto vyvodiť nejaký záver, ktorý ale nemusí odrážať reálnu situáciu, kvôli slabej účasti na dotazníku.
